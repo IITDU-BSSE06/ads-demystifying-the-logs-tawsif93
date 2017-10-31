@@ -16,5 +16,5 @@ In this assignment, we are going to establish a honor code. It means I am going 
 - How many times was the most popular file hit?
 - How many unique files are there?
 
-Based on this same log file, some more tasks will be given on 8th November, 2017 in class.
+Based on this same log file, some more tasks will be given on 8th November, 2017 in class. The deadline of this project is 7th November, 23:59PM Bangladesh Time.
 Best of luck!
