@@ -23,7 +23,7 @@ for line in sys.stdin:
 			maxCount = salesTotal
 			maxFile = oldKey
 		oldKey = thisKey;
-		salesTotal = 0
+		salesTotal = 1
 
 	oldKey = thisKey
 	salesTotal += 1
