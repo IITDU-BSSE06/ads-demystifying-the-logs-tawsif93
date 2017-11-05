@@ -13,8 +13,7 @@ for line in sys.stdin:
 	data = line.strip().split('"')
 	if len(data) == 3:
 		mapped= data[1].strip().split(" ")
-		#path = urlparse(mapped[1]).path
-		#if path:
-			#print str(path)
-		print mapped[1]
+		path = urlparse(mapped[1]).path
+		if path:
+			print str(path)
 
