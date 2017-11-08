@@ -36,3 +36,7 @@ for line in sys.stdin:
 
 #if oldKey != None:
 print "2009 " + str(C2009) + "\n" + "2010 " + str(C2010) + "\n" + "2011 " + str(C2011) + "\n"
+print C2009
+print C2010
+print C2011
+
